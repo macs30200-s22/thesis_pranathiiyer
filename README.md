@@ -36,7 +36,7 @@ import analysis
 
 
 ```python
-data = analysis.word_to_count('brides-wanted_2008.csv')
+data = analysis.word_to_count('data/brides_data/brides-wanted_2008.csv')
 analysis.counts_data(data)
 
 ```
@@ -124,7 +124,7 @@ You can also run the below commands to reproduce the other plots in the project.
 
 
 ```python
-analysis.final_func('brides-wanted_2008.csv')
+analysis.final_func('data/brides_data/brides-wanted_2008.csv')
 ```
 
 
