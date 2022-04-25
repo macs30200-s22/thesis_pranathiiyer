@@ -146,5 +146,5 @@ The above commands can easily be run for any of the files from the data folder t
 These plots are very informative. They tell us that Sikh, which is a religious community in northern india, is the most frequently used proper noun, and mba ia the most used three letter word. This gives another strong signal towards the heavy use of caste and occupation in these ads. Moreover, it would be interesting to explore why 'usa' is accuring almost as frequently as india.
 
 
-
+If you cite this code, data, or repository, please use the citation mentioned under "cite this repository" above on github (I plan on conducting a pilot--this citation is also subject to change towards the end of the course).
   
