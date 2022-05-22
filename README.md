@@ -106,22 +106,4 @@ brides_projection_adjectives.final_plot()
 You can run the same command on ```bride_projection_occupations.py``` to generate the projection of occupational words.
 
 
-```python
-!jupyter nbconvert --ClearMetadataPreprocessor.enabled=True --ClearOutput.enabled=True --to markdown README.ipynb
-```
-
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Support files will be in README_files/
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 13944 bytes to README.md
-
-
-
-```python
-
-```
+You can also find the embedding models trained on bride and groom seeking advertisements under ```brides_wanted``` and ```grooms_wanted``` respectively.
