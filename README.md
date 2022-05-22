@@ -107,3 +107,5 @@ You can run the same command on ```bride_projection_occupations.py``` to generat
 
 
 You can also find the embedding models trained on bride and groom seeking advertisements under ```brides_wanted``` and ```grooms_wanted``` respectively.
+
+If you choose to cite this work, or repo, please use the citation under "cite this repository" on github.
